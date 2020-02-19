@@ -1,0 +1,156 @@
+<!Doctype HTML>
+<!--OWWO!-->
+<div style="background-color:black;">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: dimgrey;
+  color: lime;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+.active, .accordion:hover {
+  background-color: darkslategray; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: black;
+  overflow: hidden;
+  color: deeppink
+}
+</style>
+<style>
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: deeppink;
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 1px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: deeppink;
+  color: white;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">
+<!--
+ .tab { text-indent: 48px; }
+-->
+.print-label{
+color:orange;
+font: bold medium sans-serif;
+font-size:32px
+    }
+</style>
+<body>
+
+<a href="https://ea.com"><button>Log in</button></a>
+<a href="https://website.com"><button>Sign up</button></a>
+<button class="accordion">Channel</button>
+<div class="panel">
+    <a style=font-size:32px>What do you </a><a class="print-label">think </a> <a style=font-size:32px>t</a><a href="https://www.youtube.com/channel/UCbbwY01aj95QSp6vo-88kBw?view_as=subscriber">hi</a><a style=font-size:32px>s is?
+    <p style=color:white>СУКА БЛЯДЬ</p>
+    </a>
+</div>
+
+<button class="accordion">Blog</button>
+<div class="panel">
+  <p>I wouldn't go→<a href="https://wasteofspaceblog.edublogs.org"> here</a>← if I were you. Trust me. It's bad</p>
+</div>
+
+<button class="accordion">Twitter</button>
+<div class="panel">
+    <p>Check me out at my twitter account. my handle is <a href="https://twitter.com/WasteofSpaceYT?s=09">@wasteofspaceYT</a>, but my username is Space of Waste TY. Enjoy the cursed postes, and an adjustable bar graph for your troubles.</p> <!--insert inside joke here!-->
+<img src="https://miro.medium.com/max/629/1*rzNBRBt1RCr4NsN4Lb7V1Q.png" alt="" width="250" height="166.5">
+</div>
+<!--This is known as hell!-->
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+
+
+
+
+<body>
+<p class=tab> </p>
+
+</body>
+<head>
+<h2><center>WasteOfSpaceYT</center></h2>
+<h1>
+<br><center>Home</center></h1>
+
+</head>
+
+<body style="color:lime">
+
+<p class=tab>This channel was started because I got bored. I do poor quality gaming with a poor quality computer, and poor quality games, and poor quality accessories (mouse, mic, etc).
+<br>
+</p>
+    <h1><center>
+    <br>About</center></h1>
+    <p class="tab">I'm a schoolage dude with no hobbies. I made the channel with the intent of noone seeing anything, but still having the illusion of importance. I have a Toshiba Sattilite from I think 2011, or at least it was populat then, and Lenovo Flex 15-D, from 2014 maybe.</p>
+<p> <a href="https://docs.google.com/document/d/1wEJ-zOBKolT3XUkZqftnZsecjoDmlMJzF935i3syuzw/edit?usp=sharing">Toshiba</a>
+    <br> <a href="">Lemowo</a></p>
+<p class=tab>I also have a PS4, but we do not talk about that. I don't have many games on it. I have recorded on it before and was very pleased.   I also have "mild" anger problems. The game freezes, rage. The computer uses the speaker, despite me telling it to use the headphones, I rage. I loose, I rage. Not a great quality, but I have many issues. Another one of my issues is that I started walking too fast. If a baby starts walking too early, the baby does not gain full depth preseption. I can not see 3D and when I walk on the street, I duck at random street signs. Both eyes see different things. Depth perseption is when the brain properly layers what both eyes see. If a baby starts walking too early, the brain does not have time to develop this during the crawling stage. I am also cross-eyed from birth. This leads many people to make comments on my eyes. 
+</body>
+    
+<style>
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
+</script>
+    <body>
+    <button class="accordion">Sepuku</button></body>
+    <div class="panel">
+    <p>ahdskjfplefiadsl;kjioewfaq;klsjdwoiefjkdsazweoirjalkdc</p>
+    </div>
